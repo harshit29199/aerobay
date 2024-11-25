@@ -1,0 +1,20 @@
+
+const String weatherImage = "assets/images/weather.png";
+const String weatherNewImage = "assets/images/weatherimage.png";
+const String aqiImage = "assets/images/aqi.png";
+const String windImage = "assets/images/wind.png";
+const String humidImage = "assets/images/veryhumid.png";
+const String visibilityImage = "assets/images/visibility.png";
+const String rainmeterImage = "assets/images/rainmeter.png";
+const String sunImage = "assets/images/sun.png";
+const String visi1 = "assets/images/visibility_low.png";
+const String visi2 = "assets/images/visibility_medium.png";
+const String visi3 = "assets/images/visibility_high.png";
+const String wea1 = "assets/images/weather1.png";
+const String unitwind = "assets/images/unitwind.png";
+const String unithum = "assets/images/unithumid.png";
+const String unitvis = "assets/images/unitvisibility.png";
+const String wifi_connecting_icon = "assets/images/wifi_connecting_icon.png";
+const String wifi_off_icon = "assets/images/wifi_off_icon.png";
+const String wifi_on_icon = "assets/images/wifi_on_icon.png";
+const String home_icon = "assets/images/home_icon.png";
