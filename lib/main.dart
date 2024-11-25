@@ -25,6 +25,7 @@ import 'logic/logic.dart';
 AppTheme aa = AppTheme();
 
 void main() {
+  //Change 1
   WidgetsFlutterBinding.ensureInitialized();
   final ble = FlutterReactiveBle();
   final bleLogger = BleLogger(ble: ble);
@@ -106,7 +107,8 @@ void main() {
               child: widget!,
             );
           },
-          title: aa.title,
+          // title: aa.title,
+          title: "Aerobay",
           debugShowCheckedModeBanner: false,
           home:  SplashScreen(),
           // home:  const WeatherManScreen(title: "",),
